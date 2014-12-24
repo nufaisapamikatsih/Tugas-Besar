@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<configuration date="2014/12/12" author="e.World Technology Ltd.">
+<project id="{1F84AD9A-35E5-45ED-842B-365EF8643C81}" file="" name="project1" product="PHPMaker" version="11.0" datetime="2014/12/12 21:41:53" languagefolder="phplang" userlevel="0,&quot;Default&quot;,0">
+<table id="fixed_asset" name="fixed_asset" caption="fixed asset" userlevel="0,&quot;Default&quot;,32" priv="1"/>
+<table id="fixed_asset_assign" name="fixed_asset_assign" caption="fixed asset assign" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="fixed_asset_type" name="fixed_asset_type" caption="fixed asset type" userlevel="0,&quot;Default&quot;,32" priv="1"/>
+<table id="order_item" name="order_item" caption="order item" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="party" name="party" caption="party" userlevel="0,&quot;Default&quot;,32" priv="1"/>
+<table id="party_faa" name="party_faa" caption="party faa" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="party_skill_data" name="party_skill_data" caption="party skill data" userlevel="0,&quot;Default&quot;,32" priv="1"/>
+<table id="party_work_req_role" name="party_work_req_role" caption="party work req role" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="rare_type" name="rare_type" caption="rare type" userlevel="0,&quot;Default&quot;,32" priv="1"/>
+<table id="req_role_type" name="req_role_type" caption="req role type" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="req_type" name="req_type" caption="req type" userlevel="0,&quot;Default&quot;,32" priv="1"/>
+<table id="time_sheet_entry" name="time_sheet_entry" caption="time sheet entry" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="user" name="user" caption="user" userlevel="0,&quot;Default&quot;,32" priv="1"/>
+<table id="we_breakdown" name="we_breakdown" caption="we breakdown" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="we_fa_req" name="we_fa_req" caption="we fa req" userlevel="0,&quot;Default&quot;,32" priv="1"/>
+<table id="we_from_order_item" name="we_from_order_item" caption="we from order item" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="we_from_work_req" name="we_from_work_req" caption="we from work req" userlevel="0,&quot;Default&quot;,32" priv="1"/>
+<table id="we_good_standard" name="we_good_standard" caption="we good standard" userlevel="0,&quot;Default&quot;,32" priv="1"/>
+<table id="we_party_assignment_data" name="we_party_assignment_data" caption="we party assignment data" userlevel="0,&quot;Default&quot;,32" priv="1"/>
+<table id="we_rate" name="we_rate" caption="we rate" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="we_status" name="we_status" caption="we status" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="we_type" name="we_type" caption="we type" userlevel="0,&quot;Default&quot;,32" priv="1"/>
+<table id="work_effort" name="work_effort" caption="work effort" userlevel="0,&quot;Default&quot;,32" priv="1"/>
+<table id="work_req" name="work_req" caption="work req" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="work_req_type" name="work_req_type" caption="work req type" userlevel="0,&quot;Default&quot;,32" priv="1"/>
+</project></configuration>
